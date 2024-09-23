@@ -1,0 +1,11 @@
+D:\UCM\Advanced Database Systems\Programming Assignment\GraphQL_Fall2024>pip install Flask Flask-GraphQL pymongo
+
+D:\UCM\Advanced Database Systems\Programming Assignment\GraphQL_Fall2024>pip install graphene==2.1.9 flask-graphql==2.0.1 graphql-core==2.3.1 graphql-relay==2.0.0
+
+D:\UCM\Advanced Database Systems\Programming Assignment\GraphQL_Fall2024>pip list
+
+D:\UCM\Advanced Database Systems\Programming Assignment\GraphQL_Fall2024>python app.py
+
+D:\UCM\Advanced Database Systems\Programming Assignment\GraphQL_Fall2024>pip uninstall graphene graphql-core graphql-relay flask-graphql
+
+D:\UCM\Advanced Database Systems\Programming Assignment\GraphQL_Fall2024>pip uninstall graphene flask-graphql graphql-core graphql-relay
